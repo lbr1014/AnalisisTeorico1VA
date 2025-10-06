@@ -17,3 +17,42 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://opencart.abstracta.us/')
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/NavegacionGestionCOmpra/Page_Your Store/h3'), 0)
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/NavegacionGestionCOmpra/Page_Your Store/div_Categories_collapse navbar-collapse nav_09365a'), 
+    0)
+
+WebUI.click(findTestObject('Object Repository/NavegacionGestionCOmpra/Page_Your Store/a'))
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/NavegacionGestionCOmpra/Page_iPhone/h1'), 0)
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/NavegacionGestionCOmpra/Page_iPhone/button_Qty_button-cart'), 
+    0)
+
+WebUI.click(findTestObject('Object Repository/NavegacionGestionCOmpra/Page_iPhone/button_Qty_button-cart'))
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/NavegacionGestionCOmpra/Page_iPhone/div_iPhone_alert alert-success alert-dismissible'), 
+    0)
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/NavegacionGestionCOmpra/Page_iPhone/span_Wish List (0)_hidden-xs hidden-sm hidden-md'), 
+    0)
+
+WebUI.click(findTestObject('Object Repository/NavegacionGestionCOmpra/Page_iPhone/span_Wish List (0)_hidden-xs hidden-sm hidden-md'))
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/NavegacionGestionCOmpra/Page_Shopping Cart/div_Show All MP3 Players_checkout-cart'), 
+    0)
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/NavegacionGestionCOmpra/Page_Shopping Cart/a_Continue Shopping_btn btn-primary'), 
+    0)
+
+WebUI.click(findTestObject('Object Repository/NavegacionGestionCOmpra/Page_Shopping Cart/a_Continue Shopping_btn btn-primary'))
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/NavegacionGestionCOmpra/Page_Checkout/div_Checkout_content'), 
+    0)
+
+WebUI.closeBrowser()
+
