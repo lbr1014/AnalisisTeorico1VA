@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>h1</value>
-      <webElementGuid>176ea44c-9c4f-450c-9d1e-3d904d9bb119</webElementGuid>
+      <webElementGuid>75aff83b-f3e3-4648-889a-78c45e9f1005</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>text</name>
       <type>Main</type>
       <value>iPhone</value>
-      <webElementGuid>6ce32213-d82d-494b-8038-01eff595eb03</webElementGuid>
+      <webElementGuid>821c436f-57e5-4b9c-92f4-d770f3a80011</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;content&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-4&quot;]/h1[1]</value>
-      <webElementGuid>3239389b-cd3a-43ae-8e6f-1e33282546f0</webElementGuid>
+      <webElementGuid>4c791568-5e9e-46b4-931a-2a9e75dace54</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='content']/div/div[2]/h1</value>
-      <webElementGuid>cd680b67-9311-42fe-8a72-e95f58f074e9</webElementGuid>
+      <webElementGuid>9b2192c6-3b9e-40f8-abf1-b35689174970</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Continue'])[1]/following::h1[1]</value>
-      <webElementGuid>6b14741f-0766-4e1e-b283-a60bce257b71</webElementGuid>
+      <webElementGuid>71708388-2389-40a5-a9d1-6cf3ea2387f6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Rating'])[1]/following::h1[1]</value>
-      <webElementGuid>7c27265f-c07d-4aca-857e-a8569f3398b7</webElementGuid>
+      <webElementGuid>6271a97e-2cc2-47bf-affa-ec96ee8ccd68</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Apple'])[1]/preceding::h1[1]</value>
-      <webElementGuid>27f15288-9cef-437b-95b6-6b6a56995411</webElementGuid>
+      <webElementGuid>9e3c5c38-39a9-486b-ab73-6b6beb15ae60</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/h1</value>
-      <webElementGuid>360dcc0d-f74e-48a0-a35b-1d2cf1e35d91</webElementGuid>
+      <webElementGuid>e5ea9bae-09f7-4985-9870-22d703461e0b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,6 +93,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//h1[(text() = 'iPhone' or . = 'iPhone')]</value>
-      <webElementGuid>acaa2fef-b52a-4a40-beba-ec32f97cdab0</webElementGuid>
+      <webElementGuid>3e995832-4c37-405f-a31b-45a37e150f2f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

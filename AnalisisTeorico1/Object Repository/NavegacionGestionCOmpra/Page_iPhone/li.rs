@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>h3</name>
+   <name>li</name>
    <tag></tag>
-   <elementGuidId>bf005ff0-8ded-4a20-b767-31f94d7c8ee3</elementGuidId>
+   <elementGuidId>f4fa2ead-cd08-4e97-a9f1-25c561ed1875</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>h3</value>
+         <value>li:nth-of-type(4)</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='content']/h3</value>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=heading[name=&quot;Featured&quot;i]</value>
+         <value>li >> internal:has-text=&quot;Shopping Cart&quot;i</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -28,87 +28,71 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>h3</value>
-      <webElementGuid>02f85ad8-1d94-4026-aad6-89c251d2022f</webElementGuid>
+      <value>li</value>
+      <webElementGuid>6cd4361b-be62-4a77-a003-db5329177b6d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Featured</value>
-      <webElementGuid>83652b93-4481-45c3-8ef9-1d1937508de7</webElementGuid>
+      <value> Shopping Cart</value>
+      <webElementGuid>c3c5de8d-52f9-4850-b99e-38167b32dc31</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;content&quot;)/h3[1]</value>
-      <webElementGuid>bda06666-7cc2-48b2-877c-e87037827aa9</webElementGuid>
+      <value>id(&quot;top-links&quot;)/ul[@class=&quot;list-inline&quot;]/li[4]</value>
+      <webElementGuid>1e4bdffd-bfa8-4064-acf9-d2c4cb4b0bea</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='content']/h3</value>
-      <webElementGuid>9b11fefb-492f-44c9-85cc-7eac1d2d5744</webElementGuid>
+      <value>//div[@id='top-links']/ul/li[4]</value>
+      <webElementGuid>6e16e1ac-cc19-4e4f-96a3-6131cc70f45f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Show All MP3 Players'])[1]/following::h3[1]</value>
-      <webElementGuid>8fa5b8c7-a1d4-46a1-b4d3-530ae555c0e1</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Wish List (0)'])[1]/following::li[1]</value>
+      <webElementGuid>8716eb85-83de-4aa0-afed-f68fa10d94d1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='test 9 (0)'])[1]/following::h3[1]</value>
-      <webElementGuid>e3f1eb42-1c00-40e3-8f57-c157e2d83a9f</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[1]/following::li[2]</value>
+      <webElementGuid>9e19571e-1938-4a05-91ae-76618bab0b8d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='MacBook'])[1]/preceding::h3[1]</value>
-      <webElementGuid>0639b99f-8051-4d11-a4ff-2327259bdb56</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ex Tax: $500.00'])[1]/preceding::h3[1]</value>
-      <webElementGuid>aed584a5-6341-49d5-8383-d13cc52b8d77</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Featured']/parent::*</value>
-      <webElementGuid>fed3f0b3-e54f-4461-b7dc-bf6818138c92</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Checkout'])[1]/preceding::li[1]</value>
+      <webElementGuid>2d514df6-2362-4cba-8007-21c24ad4a9e2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//h3</value>
-      <webElementGuid>c56965e2-ff35-482f-910c-8b044c199cad</webElementGuid>
+      <value>//li[4]</value>
+      <webElementGuid>d2bb49ae-e3d8-4faf-94e4-260ba9512aa6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//h3[(text() = 'Featured' or . = 'Featured')]</value>
-      <webElementGuid>f423fcd4-44ee-476a-a773-d127bafb7edf</webElementGuid>
+      <value>//li[(text() = ' Shopping Cart' or . = ' Shopping Cart')]</value>
+      <webElementGuid>3b5a43da-797b-4db1-ad1a-cd12a83a0833</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

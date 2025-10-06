@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>6d8507d9-4dfa-4984-8d4f-a9ee26f88d03</webElementGuid>
+      <webElementGuid>e628e365-604d-4654-b551-a3f6d6cbaf1f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>id</name>
       <type>Main</type>
       <value>checkout-cart</value>
-      <webElementGuid>a7c760ff-0f3e-48a9-89a8-92662ca178d4</webElementGuid>
+      <webElementGuid>9af9456f-7925-4d6c-8985-16e16eac7dd2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>container</value>
-      <webElementGuid>845113a6-68b7-4bb3-b2d9-7ff0bc157b05</webElementGuid>
+      <webElementGuid>388a8e54-c013-4de9-b843-f94baac7b7e5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -454,7 +454,7 @@ $('select[name=\'country_id\']').on('change',function(){$.ajax({url:'index.php?r
       
     
 </value>
-      <webElementGuid>e19ed4bf-63aa-43ad-a236-edb357a8ba1e</webElementGuid>
+      <webElementGuid>631e23b6-0679-40cb-b176-fd444f2124da</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -462,7 +462,7 @@ $('select[name=\'country_id\']').on('change',function(){$.ajax({url:'index.php?r
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;checkout-cart&quot;)</value>
-      <webElementGuid>0ee90ecc-ded5-4d6c-bcac-6db5ace3c1dd</webElementGuid>
+      <webElementGuid>78886baa-f5f3-4acd-b8df-9a251959b464</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -470,7 +470,7 @@ $('select[name=\'country_id\']').on('change',function(){$.ajax({url:'index.php?r
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//div[@id='checkout-cart']</value>
-      <webElementGuid>47e271ca-4019-4da5-891f-a64f7532a31d</webElementGuid>
+      <webElementGuid>e7d103e2-25f7-4941-883d-65511dc4c310</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -478,7 +478,7 @@ $('select[name=\'country_id\']').on('change',function(){$.ajax({url:'index.php?r
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Show All MP3 Players'])[1]/following::div[1]</value>
-      <webElementGuid>b46c3bf8-3f78-4ef8-84aa-0d2630c91e19</webElementGuid>
+      <webElementGuid>2df8a353-dfb5-4fb0-9c5e-ae11e292beab</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -486,7 +486,7 @@ $('select[name=\'country_id\']').on('change',function(){$.ajax({url:'index.php?r
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='test 9 (0)'])[1]/following::div[1]</value>
-      <webElementGuid>4065768b-8ee2-4bb2-b0e3-7b1cefbe50e8</webElementGuid>
+      <webElementGuid>e2152a60-5f45-40cd-9d85-9d50e91edc4c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -494,7 +494,7 @@ $('select[name=\'country_id\']').on('change',function(){$.ajax({url:'index.php?r
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]</value>
-      <webElementGuid>c885d723-e25e-4f69-b582-b5a6afb44bd2</webElementGuid>
+      <webElementGuid>7e9f9fe5-0e5e-4b83-b430-6a36ace894da</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -1304,6 +1304,6 @@ $(&quot; , &quot;'&quot; , &quot;select[name=\&quot; , &quot;'&quot; , &quot;cou
       
     
 &quot;))]</value>
-      <webElementGuid>da9def96-0d76-4d23-8b3b-9890b67d5094</webElementGuid>
+      <webElementGuid>118eafe8-6f2a-4bd7-990c-7981887d96e7</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

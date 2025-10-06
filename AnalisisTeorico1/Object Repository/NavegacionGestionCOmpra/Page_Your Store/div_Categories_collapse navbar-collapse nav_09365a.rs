@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>4e008662-0ea7-4158-9ecf-db71fb84f624</webElementGuid>
+      <webElementGuid>ef67fb99-c7f9-4a19-a3b4-a43befe05109</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>collapse navbar-collapse navbar-ex1-collapse</value>
-      <webElementGuid>497e0772-d126-4a09-9bc3-9a8e22123fdf</webElementGuid>
+      <webElementGuid>42f32427-5daa-4312-83e2-5edd54d6e23c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -113,7 +113,7 @@
         
                       
     </value>
-      <webElementGuid>d57e0026-3fcc-4cc1-8a77-21b7d9ddd018</webElementGuid>
+      <webElementGuid>608ccd6d-236a-4095-a398-32aa4ebd8078</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -121,7 +121,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;menu&quot;)/div[@class=&quot;collapse navbar-collapse navbar-ex1-collapse&quot;]</value>
-      <webElementGuid>2b4847ee-545e-4842-85c1-e73446722c01</webElementGuid>
+      <webElementGuid>9ebf98a6-7e57-4bc8-88f9-46d567d2dc51</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -129,7 +129,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//nav[@id='menu']/div[2]</value>
-      <webElementGuid>8ac6b978-93bb-4ddd-9a7c-33a58d7e2a6a</webElementGuid>
+      <webElementGuid>a3e8ef43-44c2-4ac8-90d8-46890f764003</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -137,7 +137,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Categories'])[1]/following::div[1]</value>
-      <webElementGuid>d2a5655d-afca-4c8c-b3f5-bfba83d74f43</webElementGuid>
+      <webElementGuid>6c19fefd-97d5-4764-b627-0f15aea5b15d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -145,7 +145,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Your Store'])[2]/following::div[7]</value>
-      <webElementGuid>a5ba8179-b401-4733-a5fa-b89e2dd6cc94</webElementGuid>
+      <webElementGuid>a39a26c6-88de-42be-b3fc-7e0270abad9d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -153,7 +153,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//nav/div[2]</value>
-      <webElementGuid>73d10afc-b1b3-4cdb-9fca-3c7daf586894</webElementGuid>
+      <webElementGuid>3db0763d-adff-44ed-8c28-a0850deb40d3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -297,6 +297,6 @@
         
                       
     ')]</value>
-      <webElementGuid>bdb173f5-80ab-4ff1-96fb-05bbb0da5e9d</webElementGuid>
+      <webElementGuid>288317c7-46b4-4906-b271-b46193044935</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>5e8c9f0b-e7b1-44ed-9c2c-0d924431fd66</webElementGuid>
+      <webElementGuid>3c243c75-d60f-43b3-bdbd-7e818680e7e0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>id</name>
       <type>Main</type>
       <value>content</value>
-      <webElementGuid>162322cc-12ce-4a68-a864-36b9bb27bfeb</webElementGuid>
+      <webElementGuid>290c19f2-f5fe-4b24-9c2f-0e2a54039134</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>col-sm-12</value>
-      <webElementGuid>5028589d-1129-480f-944e-e14060b49a5c</webElementGuid>
+      <webElementGuid>ba5deb1d-9bf7-457f-ad6b-25b3ede4b7d3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -134,7 +134,7 @@
         
       
       </value>
-      <webElementGuid>11e6e4a9-f756-4ff5-b2d1-6ed62ce55f13</webElementGuid>
+      <webElementGuid>1e2a7897-f5e0-410d-b9e0-4afdcadfd8b9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -142,7 +142,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;content&quot;)</value>
-      <webElementGuid>5f4b424e-666e-474c-93e4-82a54956f35b</webElementGuid>
+      <webElementGuid>3525dc5f-26ab-4a99-b6f0-a5b85873737d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -150,7 +150,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//div[@id='content']</value>
-      <webElementGuid>1af11084-0a72-437b-8b84-1b1253794765</webElementGuid>
+      <webElementGuid>9b62dc16-63c5-437e-95e8-7e1c3f8ed9d5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -158,7 +158,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='checkout-checkout']/div/div</value>
-      <webElementGuid>8c6cadcd-2e05-4805-9760-7958094d1cd7</webElementGuid>
+      <webElementGuid>79c5ed08-26ee-4325-8810-78a591e3a480</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -166,7 +166,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Checkout'])[4]/following::div[2]</value>
-      <webElementGuid>9557cb73-531b-4ff9-96f0-d4195db33726</webElementGuid>
+      <webElementGuid>b48583fa-5c0f-485a-ba31-8a913ac59ca8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -174,7 +174,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Shopping Cart'])[2]/following::div[2]</value>
-      <webElementGuid>ee25dfe3-71e2-4581-9789-daf7749e8289</webElementGuid>
+      <webElementGuid>e7903305-c82b-431a-88b0-3882f5a8cdd6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -182,7 +182,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div</value>
-      <webElementGuid>929b3c3e-da37-4ef3-8c6c-7bfe4752c9c3</webElementGuid>
+      <webElementGuid>78939fd7-3006-4130-a7de-8d2065bb669a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -352,6 +352,6 @@
         
       
       &quot;))]</value>
-      <webElementGuid>bd98c3c9-7aa1-474a-9279-eb4ec2cd113a</webElementGuid>
+      <webElementGuid>efc65c8a-541d-4a0c-8d0a-fdd1cb685db5</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

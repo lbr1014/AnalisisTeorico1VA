@@ -38,10 +38,14 @@ WebUI.click(findTestObject('Object Repository/NavegacionGestionCOmpra/Page_iPhon
 WebUI.verifyElementPresent(findTestObject('Object Repository/NavegacionGestionCOmpra/Page_iPhone/div_iPhone_alert alert-success alert-dismissible'), 
     0)
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/NavegacionGestionCOmpra/Page_iPhone/span_Wish List (0)_hidden-xs hidden-sm hidden-md'), 
+WebUI.verifyElementPresent(findTestObject('Object Repository/NavegacionGestionCOmpra/Page_iPhone/button_Your Store_btn btn-inverse btn-block_abf7b7_1'), 
     0)
 
-WebUI.click(findTestObject('Object Repository/NavegacionGestionCOmpra/Page_iPhone/span_Wish List (0)_hidden-xs hidden-sm hidden-md'))
+WebUI.click(findTestObject('Object Repository/NavegacionGestionCOmpra/Page_iPhone/i_Wish List (0)_fa fa-shopping-cart'))
+
+WebUI.navigateToUrl('https://opencart.abstracta.us/index.php?route=checkout/cart')
+
+WebUI.navigateToUrl('https://opencart.abstracta.us/index.php?route=checkout/cart')
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/NavegacionGestionCOmpra/Page_Shopping Cart/div_Show All MP3 Players_checkout-cart'), 
     0)
@@ -54,5 +58,18 @@ WebUI.click(findTestObject('Object Repository/NavegacionGestionCOmpra/Page_Shopp
 WebUI.verifyElementPresent(findTestObject('Object Repository/NavegacionGestionCOmpra/Page_Checkout/div_Checkout_content'), 
     0)
 
+WebUI.click(findTestObject('Object Repository/NavegacionGestionCOmpra/Page_Checkout/a'))
+
+WebUI.navigateToUrl('https://opencart.abstracta.us/index.php?route=checkout/cart')
+
+WebUI.verifyElementVisible(findTestObject('Object Repository/NavegacionGestionCOmpra/Page_Shopping Cart/a_123.20_btn btn-default'))
+
+WebUI.click(findTestObject('Object Repository/NavegacionGestionCOmpra/Page_Shopping Cart/a_123.20_btn btn-default'))
+
+WebUI.verifyElementVisible(findTestObject('Object Repository/NavegacionGestionCOmpra/Page_Your Store/div_Categories_collapse navbar-collapse nav_09365a'))
+
+WebUI.verifyElementVisible(findTestObject('Object Repository/NavegacionGestionCOmpra/Page_Your Store/div_Show All MP3 Players_content'))
+
 WebUI.closeBrowser()
+
 

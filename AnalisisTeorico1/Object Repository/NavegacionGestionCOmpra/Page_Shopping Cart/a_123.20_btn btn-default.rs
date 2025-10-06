@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Continue Shopping_btn btn-primary</name>
+   <name>a_123.20_btn btn-default</name>
    <tag></tag>
-   <elementGuidId>308dc263-cc73-400b-935c-5a54a6266190</elementGuidId>
+   <elementGuidId>1ae7c1aa-0ea6-4e57-84cb-7c083f9c5af5</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>a.btn.btn-primary</value>
+         <value>a.btn.btn-default</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='content']/div[3]/div[2]/a</value>
+         <value>//div[@id='content']/div[3]/div/a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=link[name=&quot;Checkout&quot;s]</value>
+         <value>internal:role=link[name=&quot;Continue Shopping&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,110 +29,118 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>1243f30a-8995-4be1-bfdd-1f2c62582232</webElementGuid>
+      <webElementGuid>9bcec586-82f5-4840-8690-a9d09f74e255</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>https://opencart.abstracta.us:443/index.php?route=checkout/checkout</value>
-      <webElementGuid>77588dd5-191c-47d7-9087-112ca4380588</webElementGuid>
+      <value>http://opencart.abstracta.us:80/index.php?route=common/home</value>
+      <webElementGuid>5e2c9425-7db0-44b2-9eab-a5f3907d32f3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>btn btn-primary</value>
-      <webElementGuid>fbb42cb9-645f-48fb-90ae-5039e1a3cc7c</webElementGuid>
+      <value>btn btn-default</value>
+      <webElementGuid>7afc3fcb-debd-4ab6-8230-12d81027f9a2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Checkout</value>
-      <webElementGuid>8ef26405-5195-4a02-bc3c-f6014af417d3</webElementGuid>
+      <value>Continue Shopping</value>
+      <webElementGuid>772e50db-cc8b-4969-89dc-081e1dfe7b5d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;content&quot;)/div[@class=&quot;buttons clearfix&quot;]/div[@class=&quot;pull-right&quot;]/a[@class=&quot;btn btn-primary&quot;]</value>
-      <webElementGuid>97e0d7cc-985f-453b-bfe5-af3991cba66a</webElementGuid>
+      <value>id(&quot;content&quot;)/div[@class=&quot;buttons clearfix&quot;]/div[@class=&quot;pull-left&quot;]/a[@class=&quot;btn btn-default&quot;]</value>
+      <webElementGuid>d645382e-181e-4f12-a3cf-b5b7c1f1d04c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='content']/div[3]/div[2]/a</value>
-      <webElementGuid>57d96b99-8c24-4846-8205-e600c2a9dfdc</webElementGuid>
+      <value>//div[@id='content']/div[3]/div/a</value>
+      <webElementGuid>bc5021d9-3656-4926-9486-3c832c8d1f67</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:link</name>
       <type>Main</type>
-      <value>//a[contains(text(),'Checkout')]</value>
-      <webElementGuid>e83134d9-0443-4eb6-903d-1ac221521496</webElementGuid>
+      <value>//a[contains(text(),'Continue Shopping')]</value>
+      <webElementGuid>1b3fa360-0b81-4493-94aa-38f8e1c0d2cf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Continue Shopping'])[1]/following::a[1]</value>
-      <webElementGuid>01966d65-5f81-4882-aa0f-7552431df38c</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$123.20'])[5]/following::a[1]</value>
+      <webElementGuid>7a843246-4472-44a0-8dcb-759b3bdca2ec</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='$123.20'])[5]/following::a[2]</value>
-      <webElementGuid>89ecc134-3027-43e5-b59f-032dc328280f</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total:'])[1]/following::a[1]</value>
+      <webElementGuid>d46b8076-0567-4cb1-939f-cfd874a3a128</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Information'])[1]/preceding::a[1]</value>
-      <webElementGuid>5fe03fa0-49f3-4ed4-a70f-1fd90b392e5e</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Checkout'])[3]/preceding::a[1]</value>
+      <webElementGuid>208bb4fa-14c1-45fc-9259-88fec9ae6d6a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='About Us'])[1]/preceding::a[1]</value>
-      <webElementGuid>1cf95efd-a583-4a31-984a-a1a9cdc7c13c</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Information'])[1]/preceding::a[2]</value>
+      <webElementGuid>4ba0b024-e68c-4059-ae4c-c54f7b76c708</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Continue Shopping']/parent::*</value>
+      <webElementGuid>281cbd79-3c94-4a69-babf-08db17d75f7e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:href</name>
       <type>Main</type>
-      <value>(//a[contains(@href, 'https://opencart.abstracta.us:443/index.php?route=checkout/checkout')])[3]</value>
-      <webElementGuid>67d2b78f-6cec-4cc4-a917-f0ca35273623</webElementGuid>
+      <value>(//a[@href='http://opencart.abstracta.us:80/index.php?route=common/home'])[3]</value>
+      <webElementGuid>d907a261-572b-40ec-909b-9a2fae6f4df8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/a</value>
-      <webElementGuid>af12eb80-7eb6-4145-b18d-39323d6c581c</webElementGuid>
+      <value>//div/div[3]/div/a</value>
+      <webElementGuid>a5b3e031-bdac-489f-ad91-9203027957a0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = 'https://opencart.abstracta.us:443/index.php?route=checkout/checkout' and (text() = 'Checkout' or . = 'Checkout')]</value>
-      <webElementGuid>116cc2b2-44ff-45b5-98a2-ecfbd6d65221</webElementGuid>
+      <value>//a[@href = 'http://opencart.abstracta.us:80/index.php?route=common/home' and (text() = 'Continue Shopping' or . = 'Continue Shopping')]</value>
+      <webElementGuid>01ce2e20-79bc-4ac8-8796-b916e0ba29fd</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

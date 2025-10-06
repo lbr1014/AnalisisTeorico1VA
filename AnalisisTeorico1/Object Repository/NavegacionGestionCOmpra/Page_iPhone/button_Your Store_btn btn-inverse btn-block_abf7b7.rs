@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Qty_button-cart</name>
+   <name>button_Your Store_btn btn-inverse btn-block_abf7b7</name>
    <tag></tag>
-   <elementGuidId>f8c21541-6d8a-4274-b548-d8b162ac4b73</elementGuidId>
+   <elementGuidId>979b6ad3-4ac3-423a-a95a-4416468eb866</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#button-cart</value>
+         <value>button.btn.btn-inverse.btn-block.btn-lg.dropdown-toggle</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='button-cart']</value>
+         <value>(//button[@type='button'])[5]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=button[name=&quot;Add to Cart&quot;s]</value>
+         <value>internal:role=button[name=&quot; 1 item(s) - $123.20&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>1616e0d9-12e0-417e-860a-a777339cb8b3</webElementGuid>
+      <webElementGuid>f646fba2-bae5-4b00-916c-edeabde846ec</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,15 +37,15 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>13b8e00d-7412-4ef1-b49c-bbf13be3ebc6</webElementGuid>
+      <webElementGuid>52df6add-f278-4237-a9a1-97e94c59721f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>id</name>
+      <name>data-toggle</name>
       <type>Main</type>
-      <value>button-cart</value>
-      <webElementGuid>6042adf3-f165-4c39-af2a-5547f8d51ad2</webElementGuid>
+      <value>dropdown</value>
+      <webElementGuid>edbb7f77-51b4-40a6-83e7-cbf048b068ef</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,102 +53,94 @@
       <name>data-loading-text</name>
       <type>Main</type>
       <value>Loading...</value>
-      <webElementGuid>91d79f49-9187-4a63-b1a6-a026084e08d3</webElementGuid>
+      <webElementGuid>07b67d75-3863-40f3-87fd-087ead2b5791</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>btn btn-primary btn-lg btn-block</value>
-      <webElementGuid>2cf7ef2c-3ff8-41fd-b6f0-2eddd0dbf570</webElementGuid>
+      <value>btn btn-inverse btn-block btn-lg dropdown-toggle</value>
+      <webElementGuid>63476b22-ad12-44bf-b668-a4f590d85feb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Add to Cart</value>
-      <webElementGuid>290ec87a-621f-4626-a288-5cfa9d9fe01a</webElementGuid>
+      <value> 1 item(s) - $123.20</value>
+      <webElementGuid>7fabbe2a-ea73-476d-810d-6f82e9275284</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;button-cart&quot;)</value>
-      <webElementGuid>b6b2d5a9-9464-47f7-a598-f1d24b47efca</webElementGuid>
+      <value>id(&quot;cart&quot;)/button[@class=&quot;btn btn-inverse btn-block btn-lg dropdown-toggle&quot;]</value>
+      <webElementGuid>90087ab5-0c4b-4d1b-a00a-c7cf0ee4ad01</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//button[@id='button-cart']</value>
-      <webElementGuid>c3b3e23a-508b-4627-927a-074d18ba9e2a</webElementGuid>
+      <value>(//button[@type='button'])[5]</value>
+      <webElementGuid>6f5cee79-88b5-4516-8800-4fc150ff2029</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='product']/div/button</value>
-      <webElementGuid>8f706d42-4e49-40bf-864b-8479e8cac1de</webElementGuid>
+      <value>//div[@id='cart']/button</value>
+      <webElementGuid>10a567ef-c3ac-4b5c-9f37-457409f6dc2f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Qty'])[1]/following::button[1]</value>
-      <webElementGuid>25485526-4629-4901-bc5e-361896dc2e91</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Your Store'])[1]/following::button[2]</value>
+      <webElementGuid>0c411b7e-4bb6-42a4-b2f3-04dc23a7bc98</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ex Tax: $101.00'])[1]/following::button[1]</value>
-      <webElementGuid>98c0b874-941f-48bf-b176-c954d51ef2d4</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Checkout'])[1]/following::button[2]</value>
+      <webElementGuid>47400be9-359c-4ae2-a26f-027bcce66d69</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Write a review'])[2]/preceding::button[1]</value>
-      <webElementGuid>027a616d-bb2b-4172-8d55-c9deac788f50</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='iPhone'])[2]/preceding::button[1]</value>
+      <webElementGuid>74495169-a536-45ad-a7e5-35f15eb5a5d3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Related Products'])[1]/preceding::button[1]</value>
-      <webElementGuid>95ab8321-1d95-4bc6-9a67-d376daf2e0e3</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Add to Cart']/parent::*</value>
-      <webElementGuid>8e32a747-5c53-4901-8f33-e905f6045bf4</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='x 1'])[1]/preceding::button[1]</value>
+      <webElementGuid>bb9ca501-f75e-4ec1-9618-55383431bb1c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/div[2]/div/button</value>
-      <webElementGuid>a7c45a09-fb05-49d5-9623-3847f87b7f86</webElementGuid>
+      <value>//div[3]/div/button</value>
+      <webElementGuid>3cda1f74-6036-4762-bc16-16a12ea6a729</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'button' and @id = 'button-cart' and (text() = 'Add to Cart' or . = 'Add to Cart')]</value>
-      <webElementGuid>689a8797-f151-4612-9b31-0c8d4a26ac72</webElementGuid>
+      <value>//button[@type = 'button' and (text() = ' 1 item(s) - $123.20' or . = ' 1 item(s) - $123.20')]</value>
+      <webElementGuid>9858f3ad-d913-466d-9060-a4f19bba2045</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

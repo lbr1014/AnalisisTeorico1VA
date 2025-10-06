@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>cb3f9eff-2f46-4d96-bcc1-a90eb9d8dc20</webElementGuid>
+      <webElementGuid>27952169-160c-4448-bb74-02e13d003464</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>alert alert-success alert-dismissible</value>
-      <webElementGuid>8b2aa11e-36c9-4b24-aec4-b73e08fa2a87</webElementGuid>
+      <webElementGuid>78ca50ee-ee7e-47a1-a8de-da60e5838125</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Success: You have added iPhone to your shopping cart!×</value>
-      <webElementGuid>11ec3f84-b0de-4716-9ce1-af0e431a9903</webElementGuid>
+      <webElementGuid>5c08c60a-76a5-4029-84b9-a47e74f5d9c7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;product-product&quot;)/div[@class=&quot;alert alert-success alert-dismissible&quot;]</value>
-      <webElementGuid>8ad048cb-3d08-4bd4-9885-f8e184ee2dab</webElementGuid>
+      <webElementGuid>edb28655-34c0-4810-a6b4-d453db80e0b7</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='product-product']/div</value>
-      <webElementGuid>2d9dc48c-d09e-4fa9-bcce-2d8f203978a8</webElementGuid>
+      <webElementGuid>71d930ba-141f-42a4-959d-e24d274006bc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='iPhone'])[3]/following::div[1]</value>
-      <webElementGuid>693dd03e-42be-40b1-8752-8dd4acc6e220</webElementGuid>
+      <webElementGuid>5c41a619-63d2-4da7-bb5d-2d971ccbb16e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Show All MP3 Players'])[1]/following::div[2]</value>
-      <webElementGuid>9aef7bf0-3bd6-4211-8024-d055f91d45ab</webElementGuid>
+      <webElementGuid>62f4dcd2-748a-409c-910e-2584eaf8de79</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Success: You have added']/parent::*</value>
-      <webElementGuid>64897ef4-bd6b-41a9-a960-26365c00583b</webElementGuid>
+      <webElementGuid>5ec8cac2-7d96-4e9d-a795-6c08c18304c3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div</value>
-      <webElementGuid>89b01ae6-3cf6-42ae-8b44-864b4e66bd93</webElementGuid>
+      <webElementGuid>fdad72af-739e-47a7-8962-39bc7d618164</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,6 +101,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Success: You have added iPhone to your shopping cart!×' or . = 'Success: You have added iPhone to your shopping cart!×')]</value>
-      <webElementGuid>29c001e6-2efa-4139-9d7d-adea580c2e38</webElementGuid>
+      <webElementGuid>6e7147b0-afb8-49c5-bd03-8a3099728465</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

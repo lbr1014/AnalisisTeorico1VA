@@ -7,7 +7,6 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
@@ -29,7 +28,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>da60e6c3-142c-4592-a951-37ae80a4282d</webElementGuid>
+      <webElementGuid>8090290c-08c7-4169-9d67-a47a785abc0d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +36,7 @@
       <name>href</name>
       <type>Main</type>
       <value>http://opencart.abstracta.us:80/index.php?route=product/product&amp;product_id=40</value>
-      <webElementGuid>d134d139-0480-46a6-94f0-f988195afe21</webElementGuid>
+      <webElementGuid>964a0bdb-79dd-446e-9560-71fae67d489b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +44,7 @@
       <name>text</name>
       <type>Main</type>
       <value>iPhone</value>
-      <webElementGuid>33a463fb-16f2-494f-a994-3d900cc7dc6f</webElementGuid>
+      <webElementGuid>535b75f9-e6d5-464e-b2b2-6cadeb88ae26</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +52,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;content&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;product-layout col-lg-3 col-md-3 col-sm-6 col-xs-12&quot;]/div[@class=&quot;product-thumb transition&quot;]/div[@class=&quot;caption&quot;]/h4[1]/a[1]</value>
-      <webElementGuid>0a0a7f8d-33e9-4e72-90cb-176e5f489d22</webElementGuid>
+      <webElementGuid>01aec3a0-4ad8-46b3-ba82-e09f657b5bc4</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +60,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='content']/div[2]/div[2]/div/div[2]/h4/a</value>
-      <webElementGuid>f7acb5f2-2210-4cd2-ba49-25f82c27c8b7</webElementGuid>
+      <webElementGuid>8bd59d63-eeff-40ec-a438-4f8a44bde969</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +68,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'iPhone')]</value>
-      <webElementGuid>91c14e0b-7786-4fc6-8a19-2243ced077a4</webElementGuid>
+      <webElementGuid>276811cd-56ad-4132-aaad-649dc2d2b7cf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +76,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Add to Cart'])[1]/following::a[2]</value>
-      <webElementGuid>4e6a3a66-9ee4-475e-873d-874e473010a5</webElementGuid>
+      <webElementGuid>4ccf2d73-80f2-423e-a5a9-d547cabf4cda</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +84,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Ex Tax: $500.00'])[1]/following::a[2]</value>
-      <webElementGuid>416361a8-fd04-4a6f-befe-8b45cc617b6d</webElementGuid>
+      <webElementGuid>0a0677b1-d7a8-4be7-9a55-e504f7db62d1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +92,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Ex Tax: $101.00'])[1]/preceding::a[1]</value>
-      <webElementGuid>8852d610-71fe-4d42-8f2f-7640270c0f76</webElementGuid>
+      <webElementGuid>968c46e6-6a91-404c-9b48-7884b601baa5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +100,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Add to Cart'])[2]/preceding::a[1]</value>
-      <webElementGuid>0df233ce-1889-4a27-9a6c-0bdc9e09be91</webElementGuid>
+      <webElementGuid>2f15a76d-72c1-478e-a2eb-cf5e47bf4515</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +108,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='iPhone']/parent::*</value>
-      <webElementGuid>36180d49-6c52-4f03-9b62-2a3195f94f85</webElementGuid>
+      <webElementGuid>56e9782a-1227-4699-be3d-318c5f51bc6b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +116,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[@href='http://opencart.abstracta.us:80/index.php?route=product/product&amp;product_id=40'])[2]</value>
-      <webElementGuid>147117b9-306c-48ba-b1bb-dfb02cc1b564</webElementGuid>
+      <webElementGuid>21e96838-1894-4b58-9770-c61d0558b17c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +124,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div[2]/h4/a</value>
-      <webElementGuid>068838a8-9726-49e2-b671-55b5101fba25</webElementGuid>
+      <webElementGuid>c527a26a-fb7b-4946-8f4c-ca322e466128</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,6 +132,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'http://opencart.abstracta.us:80/index.php?route=product/product&amp;product_id=40' and (text() = 'iPhone' or . = 'iPhone')]</value>
-      <webElementGuid>f90b4a2d-d461-48b6-8198-ddd9c933f533</webElementGuid>
+      <webElementGuid>114415aa-2b8a-4646-9cb1-c3cfca044a1a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
