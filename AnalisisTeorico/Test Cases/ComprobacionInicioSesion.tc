@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Comprobar que un usuario registrado pueda iniciar sesión correctamente</description>
+   <name>ComprobacionInicioSesion</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8defc384-459b-4e8e-ae04-90ee2d71b152</testCaseGuid>
+</TestCaseEntity>
