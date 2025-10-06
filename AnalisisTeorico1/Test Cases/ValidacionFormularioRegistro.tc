@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validación del formulario de registro con datos correctos, incorrectos e incompletos</description>
+   <name>ValidacionFormularioRegistro</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b6504c3b-9ba5-4b3a-b26b-0c42ec06213f</testCaseGuid>
+</TestCaseEntity>
