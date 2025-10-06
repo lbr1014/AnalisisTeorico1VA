@@ -17,3 +17,48 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://opencart.abstracta.us/')
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/InicioSesionVidible/ComprobacionIniciosesion/Page_Your Store/a_US Dollar_dropdown-toggle'), 
+    0)
+
+WebUI.click(findTestObject('Object Repository/InicioSesionVidible/ComprobacionIniciosesion/Page_Your Store/a_US Dollar_dropdown-toggle'))
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/InicioSesionVidible/ComprobacionIniciosesion/Page_Your Store/a'), 
+    0)
+
+WebUI.click(findTestObject('Object Repository/InicioSesionVidible/ComprobacionIniciosesion/Page_Your Store/a'))
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/InicioSesionVidible/ComprobacionIniciosesion/Page_Account Login/div_Continue_well'), 
+    0)
+
+WebUI.setText(findTestObject('Object Repository/InicioSesionVidible/ComprobacionIniciosesion/Page_Account Login/input_E-Mail Address_input-email'), 
+    'lbr1014@alu.ubu.es')
+
+WebUI.setEncryptedText(findTestObject('Object Repository/InicioSesionVidible/ComprobacionIniciosesion/Page_Account Login/input_Password_input-password'), 
+    'RigbBhfdqOBGNlJIWM1ClA==')
+
+WebUI.click(findTestObject('Object Repository/InicioSesionVidible/ComprobacionIniciosesion/Page_Account Login/input_Forgotten Password_btn btn-primary'))
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/InicioSesionVidible/ComprobacionIniciosesion/Page_Account Login/div_Login_alert alert-danger alert-dismissible'), 
+    0)
+
+WebUI.click(findTestObject('Object Repository/InicioSesionVidible/ComprobacionIniciosesion/Page_Account Login/div_Login_alert alert-danger alert-dismissible'))
+
+WebUI.click(findTestObject('Object Repository/InicioSesionVidible/ComprobacionIniciosesion/Page_Account Login/input_E-Mail Address_input-email'))
+
+WebUI.setText(findTestObject('Object Repository/InicioSesionVidible/ComprobacionIniciosesion/Page_Account Login/input_E-Mail Address_input-email'), 
+    'blg1006@alu.ubu.es')
+
+WebUI.click(findTestObject('Object Repository/InicioSesionVidible/ComprobacionIniciosesion/Page_Account Login/input_Forgotten Password_btn btn-primary'))
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/InicioSesionVidible/ComprobacionIniciosesion/Page_My Account/div_Account_content'), 
+    0)
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/InicioSesionVidible/ComprobacionIniciosesion/Page_My Account/a_Newsletter_list-group-item'), 
+    0)
+
+WebUI.click(findTestObject('Object Repository/InicioSesionVidible/ComprobacionIniciosesion/Page_My Account/a_Newsletter_list-group-item'))
+
