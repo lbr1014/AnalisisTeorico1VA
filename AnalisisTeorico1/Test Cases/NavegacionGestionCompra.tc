@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navegar desde la página principal a un producto, añadirlo al carrito y acceder al checkout</description>
+   <name>NavegacionGestionCompra</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>baa79032-fa4c-4334-95e3-996ba21ad2d2</testCaseGuid>
+</TestCaseEntity>
