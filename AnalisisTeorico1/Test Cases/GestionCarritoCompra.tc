@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Añadir un producto al carrito, modificarlo y finalmente eliminarlo</description>
+   <name>GestionCarritoCompra</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1f9d2e7e-fb65-4f6a-b98f-567cd2f89186</testCaseGuid>
+</TestCaseEntity>
