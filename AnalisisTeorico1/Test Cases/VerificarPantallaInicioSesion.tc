@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verificar que en la pantalla de inicio de sesión se muestran correctamente los campos principales, como son el email, la contraseña y el botón de login.</description>
+   <name>VerificarPantallaInicioSesion</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>864116a1-b94b-47b9-ac41-ec1d43d5faec</testCaseGuid>
+</TestCaseEntity>
