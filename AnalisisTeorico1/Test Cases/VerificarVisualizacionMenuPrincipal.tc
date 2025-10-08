@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Comprobar que el menú principal y las categorías de productos se muestran correctamente en la página de inicio, con todos los elementos visibles, legibles y funcionales.</description>
+   <name>VerificarVisualizacionMenuPrincipal</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>694f028d-978c-4653-a64d-73bbf697cf39</testCaseGuid>
+</TestCaseEntity>
