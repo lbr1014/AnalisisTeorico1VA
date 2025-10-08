@@ -21,18 +21,10 @@ import static com.kms.katalon.core.testcase.TestCaseFactory.findTestCase
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.model.FailureHandling as FailureHandling
 
-// 🔹 Abrir navegador solo una vez
+
 WebUI.openBrowser('')
 WebUI.navigateToUrl('https://opencart.abstracta.us/')
-
-// 🔹 Paso 1: Ejecutar test "VerificarPantallaInicioSesion"
-WebUI.comment('---- Ejecutando Verificación de Pantalla de Inicio de Sesión ----')
 WebUI.callTestCase(findTestCase('VerificarPantallaInicioSesion'), [:], FailureHandling.STOP_ON_FAILURE)
-
-// 🔹 Paso 2: Ejecutar test "ComprobacionInicioSesion"
-WebUI.comment('---- Ejecutando Comprobación de Inicio de Sesión ----')
 WebUI.callTestCase(findTestCase('ComprobacionInicioSesion'), [:], FailureHandling.STOP_ON_FAILURE)
-
-// 🔹 Cerrar navegador al final
 WebUI.closeBrowser()
 
