@@ -17,10 +17,6 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
-
-WebUI.navigateToUrl('https://opencart.abstracta.us/')
-
 WebUI.click(findTestObject('Object Repository/InicioSesionVidible/Page_Your Store/a_US Dollar_dropdown-toggle'))
 
 WebUI.click(findTestObject('Object Repository/InicioSesionVidible/Page_Your Store/a'))

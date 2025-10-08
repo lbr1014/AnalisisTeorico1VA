@@ -17,19 +17,6 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
-
-WebUI.navigateToUrl('https://opencart.abstracta.us/')
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/InicioSesionVidible/ComprobacionIniciosesion/Page_Your Store/a_US Dollar_dropdown-toggle'), 
-    0)
-
-WebUI.click(findTestObject('Object Repository/InicioSesionVidible/ComprobacionIniciosesion/Page_Your Store/a_US Dollar_dropdown-toggle'))
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/InicioSesionVidible/ComprobacionIniciosesion/Page_Your Store/a'), 
-    0)
-
-WebUI.click(findTestObject('Object Repository/InicioSesionVidible/ComprobacionIniciosesion/Page_Your Store/a'))
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/InicioSesionVidible/ComprobacionIniciosesion/Page_Account Login/div_Continue_well'), 
     0)
